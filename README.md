@@ -1,1 +1,1 @@
-This is a local repo. I used this to learn commit from local machine to github.
+# This is a local repo. I used this to learn commit from local machine to github. 
